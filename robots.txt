@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
-# ###http://localhost###
+# ###https://api.ramtd.net/api/json/###
 User-agent: *
 Disallow:
