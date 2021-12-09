@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
-# ###https://api.ramtd.net/api/json/###
+# ###https://api.ramtd.net/api/json/vpn/###
 User-agent: *
 Disallow:
